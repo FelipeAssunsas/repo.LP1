@@ -1,5 +1,6 @@
-.DS_Store
-*.out
-*.exe
-bin/
-build/
+# Ignorar arquivos sem extensão (executáveis no Mac)
+*
+!*.cpp
+!*.md
+!*.h
+!.gitignore
