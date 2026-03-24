@@ -3,7 +3,7 @@
 This repository contains my solutions to competitive programming problems from [Beecrowd](https://www.beecrowd.com.br/). 
 
 ## 🎯 Goal
-The main objective is to strengthen my logic and algorithm skills using **C++**, providing a solid foundation for my future studies in **Bioinformatics and Artificial Intelligence**.
+The main objective is to strengthen my logic and algorithm skills using **C++**, providing a solid foundation for my future studies in **Artificial Intelligence**.
 
 ## 🛠️ Tech Stack
 * **Language:** C++17/C++20
