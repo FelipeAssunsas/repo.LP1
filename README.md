@@ -1,10 +1,13 @@
-# Linguagem de Programação 1 (LP1) 🎓
+# Beecrowd Solutions - C++
 
-Este repositório contém os materiais, exercícios e desafios da disciplina de LP1.
+This repository contains my solutions to competitive programming problems from [Beecrowd](https://www.beecrowd.com.br/). 
 
-## 📂 Estrutura do Repo
-* **/Beecrowd**: Resoluções de problemas da plataforma Beecrowd.
-* **/Aulas**: Exemplos feitos em sala. (Sugestão para o futuro)
+## 🎯 Goal
+The main objective is to strengthen my logic and algorithm skills using **C++**, providing a solid foundation for my future studies in **Bioinformatics and Artificial Intelligence**.
+
+## 🛠️ Tech Stack
+* **Language:** C++17/C++20
+* **Environment:** macOS (ARM64) / Neovim
 
 ---
-*Mantido por [Felipe Assunção](https://github.com/FelipeAssunsas)*
+*Student at UFRN (Federal University of Rio Grande do Norte)*
