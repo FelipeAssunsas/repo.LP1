@@ -1,6 +1,7 @@
-# Ignorar arquivos sem extensão (executáveis no Mac)
+# Ignora arquivos sem extensão (executáveis)
 *
 !*.cpp
 !*.md
 !*.h
 !.gitignore
+!*/
